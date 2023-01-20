@@ -1,4 +1,4 @@
 # git-group-practice
-## for practice  mn
+## for practice
 
-5 guys are making an amazing repo!
+jim9
